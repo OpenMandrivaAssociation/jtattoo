@@ -25,6 +25,7 @@ BuildRequires:	xerces-j2
 BuildRequires:	xmlbeans
 BuildRequires:	xml-commons-apis
 BuildArch:	noarch
+%rename		%{oname}
 
 %description
 JTattoo consists of several different Look and Feels for Swing
