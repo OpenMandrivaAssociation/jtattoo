@@ -11,7 +11,7 @@ Release:	%mkrel 1
 Summary:	JTattoo Look and Feel
 License:	see License.html
 Group:		Development/Java
-Url:		http://www.jtattoo.net/index.html
+Url:		https://www.jtattoo.net/index.html
 Source0:	http://www.jtattoo.net/downloads/JTattooSource.zip
 Source1:	jtattoo.css
 Source2:	JTattooLogo.gif
